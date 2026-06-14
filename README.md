@@ -1,11 +1,11 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kimi%20Du-%20%26%20Technical%20Game%20Designer-a78bfa?style=for-the-badge&labelColor=0f0f1a" height="40"/>
+  <img src="https://img.shields.io/badge/Kimi%20Du-%20%20Technical%20Game%20Designer-a78bfa?style=for-the-badge&labelColor=0f0f1a" height="40"/>
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Technical+Game+Designer+%F0%9F%8E%AE;Unreal+Engine+%7C+Level+Design+%7C+Storytelling;Every+detail+tells+a+story." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Unreal+Engine+%7C+Level+Design+%7C+Storytelling;Every+detail+tells+a+story." />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=safari&logoColor=white)](https://www.keyingkimi.com/)
