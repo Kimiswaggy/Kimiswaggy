@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:2d1b69,100:0f0f1a&height=220&section=header&text=Kimi%20Du&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Level%20Designer%20%26%20Technical%20Game%20Designer&descAlignY=58&descColor=a78bfa&animation=fadeIn)
+<div align="center">
+  <img src="https://img.shields.io/badge/Kimi%20Du-Level%20Designer%20%26%20Technical%20Game%20Designer-a78bfa?style=for-the-badge&labelColor=0f0f1a" height="40"/>
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+worlds%2C+one+space+at+a+time+%F0%9F%8E%AE;Technical+Game+Designer;Unreal+Engine+%7C+Level+Design+%7C+Storytelling;Every+detail+tells+a+story." />
