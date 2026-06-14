@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kimiswaggy/Kimiswaggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:2d1b69,100:0f0f1a&height=220&section=header&text=Kimi%20Du&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Level%20Designer%20%26%20Technical%20Game%20Designer&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+worlds%2C+one+space+at+a+time+%F0%9F%8E%AE;CMU+Entertainment+Technology+Center;Unreal+Engine+%7C+Systemic+Design+%7C+Storytelling;Every+space+tells+a+story." />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=safari&logoColor=white)](https://www.keyingkimi.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyingkimi)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kimiswag.itch.io/)
+
+</div>
+
+---
+
+## 🎮 About Me
+
+> *"Every game tells a story."*
+
+- 🏫  Graduate @ **Carnegie Mellon University ETC @ University of Florida Digital Worlds Institute **
+- 🧱  **Level Design · Technical Design · Unreal Engine**
+- 🕹  Passionate about **player-driven gameplay & immersive game systems**
+- 🌏  Bilingual: English / 中文 / 日本語勉強中
+- 📫  Reach me: keyingdu.kimi@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unrealengine,unity,cpp,cs,python,git,perforce&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kimiisdead&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimiisdead&layout=compact&theme=midnight-purple&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+| 🎮 Project | 📝 Description | 🔧 Tech |
+|-----------|---------------|---------|
+| **🧛 Rifts: Shadow's Ascent** | Third-person stealth action game — shadow traversal mechanics and environmental puzzles that reveal a hidden story | UE5, Blueprint |
+| **🎵 Song of Nanzhao** | Top-down music-driven puzzle game — elemental melody mechanics and cultural storytelling rooted in history | UE5, Blueprint |
+| **🌙 Lantern Shrine: Merge Defense** | Mobile 2D merge-defense prototype — merge and upgrade spirit units to hold off monsters across shrine-themed stages | Unity, C#, Lua |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:2d1b69,100:0f0f1a&height=100&section=footer" />
+
+  <sub><i>"Design is not just what it looks like — it's how it plays."</i></sub>
+</div>
+
 -->
