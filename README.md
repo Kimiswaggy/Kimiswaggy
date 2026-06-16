@@ -49,9 +49,9 @@
 
 |  Project | Description | Tech |
 |-----------|---------------|---------|
-| [** Rifts: Shadow's Ascent**](https://questlinegames.itch.io/rifts-shadows-ascent) | Third-person stealth action game — shadow traversal mechanics and environmental puzzles that reveal a hidden story | UE5, Blueprint |
-| [** Song of Nanzhao**](https://kimiswag.itch.io/song-of-nanzhao) | Top-down music-driven puzzle game — elemental melody mechanics and cultural storytelling rooted in history | UE5, Blueprint |
-| [** Lantern Shrine: Merge Defense**](https://github.com/Kimiswaggy/Lantern-Shrine_Merge-Defense) | Mobile 2D merge-defense prototype — merge and upgrade spirit units to hold off monsters across shrine-themed stages | Unity, C#, Lua |
+| [**Rifts: Shadow's Ascent**](https://questlinegames.itch.io/rifts-shadows-ascent) | Third-person stealth action game — shadow traversal mechanics and environmental puzzles that reveal a hidden story | UE5, Blueprint |
+| [**Song of Nanzhao**](https://kimiswag.itch.io/song-of-nanzhao) | Top-down music-driven puzzle game — elemental melody mechanics and cultural storytelling rooted in history | UE5, Blueprint |
+| [**Lantern Shrine: Merge Defense**](https://github.com/Kimiswaggy/Lantern-Shrine_Merge-Defense) | Mobile 2D merge-defense prototype — merge and upgrade spirit units to hold off monsters across shrine-themed stages | Unity, C#, Lua |
 
 ---
 
